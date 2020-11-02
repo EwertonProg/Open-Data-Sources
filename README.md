@@ -1,18 +1,12 @@
-# Getting Started with Open Source in the Enterprise
+# Objetivo
+O principal objetivo deste projeto é reunir e armazenar o caminho e informações sobre fontes de dados públicos, gratuitos ou livres, tais como: APIs, banco de dados, arquivos, planilhas dentre outros.
 
-Welcome to our course on **Getting Started with Open Source in the Enterprise**. We are excited to join you in this journey and look forward to helping you meet your OSS goals.
+## Quem contactar caso existam duvidas
+Ewerton Santana ([Github](https://github.com/EwertonProg) [Email](mailto:ewerton.santana@ucsal.edu.br)).
 
-### How It Works
+## Qual o primeiro contato para contribuir com o projeto?
 
-This is not your average training course. This is a self-guided journey, where we will be supporting you and your team in creating the necessary documents to define and communicate your Open Source program.
-
-We like to call this repository an **Open Source Tool Kit**. It doesn't look like much right now, but when we are done with this repository, you will move it to your own  GitHub organization where it will become a resource for the developers inside your organization who are using, contributing or releasing Open Source projects.
-
-This is a **learning** repository. You will see that the `github-learning-lab` bot will open some Issues and Pull Requests for you. The best part is, even though these Issues and Pull Requests will be merged/closed as we move through the course, they will still be there -- and serve as a treasure trove of information -- for those who join the repository later.  
-
-### Getting Started
-
-We hope you are excited to get started! Head over to the take your first steps toward a :sparkles: Open Source program for your company.
+Fazendo um [Fork](https://docs.github.com/pt/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) do projeto.
 
 ## License
 
