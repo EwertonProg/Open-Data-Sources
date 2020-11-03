@@ -1,0 +1,11 @@
+[
+   {
+      "name":"Open FDA - Drugs",
+      "info_link":"https://open.fda.gov/apis/drug/event/how-to-use-the-endpoint/",
+      "business_area":"Medicações",
+      "info_about":{
+         "info":"API de eventos adversos de medicamentos do openFDA retorna dados que foram coletados do Sistema de Relatórios de Eventos Adversos do FDA (FAERS), o FDA(Food and Drug Administration) é uma agência federal do Departamento de Saúde e Serviços Humanos dos EUA. O FDA é responsável por proteger e promover a saúde pública por meio do controle e supervisão da segurança alimentar, produtos do tabaco, suplementos dietéticos, medicamentos prescritos e sem receita (medicamentos), vacinas, biofármacos, transfusões de sangue, dispositivos médicos, radiação eletromagnética dispositivos emissores, cosméticos, alimentos e rações para animais e produtos veterinários.",
+         "source":"https://en.wikipedia.org/wiki/Food_and_Drug_Administration"
+      }
+   }
+]
