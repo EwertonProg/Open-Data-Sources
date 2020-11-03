@@ -1,32 +1,18 @@
-## Contributing
+## Contribuindo
 
-[fork]: https://github.com/ORG/REPO/fork
-[pr]: https://github.com/ORG/REPO/compare
-[style]: STYLEGUIDE
-[code-of-conduct]: CODE_OF_CONDUCT.md
+Olá, se você tem interesse em contribuir conosco escolha uma das seguintes formas e siga as atentamente suas instruções:
 
-Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great.
+## Submetendo um Pull Request
 
-Please note that this project is released with a [Contributor Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms.
+0. Faça um [Fork](https://docs.github.com/pt/free-pro-team@latest/github/getting-started-with-github/fork-a-repo) do projeto.
+0. Crie uma nova branch.
+0. Faça as alterações desejadas.
+0. Faça um Push das suas alterações para seu fork.
+0. Crie um [Pull Request](https://docs.github.com/pt/free-pro-team@latest/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request) e aguarde até que ele receba uma resposta.
 
-## Submitting a pull request
+## Abrindo uma Issue
 
-0. [Fork][fork] and clone the repository
-0. Create a new branch: `git checkout -b my-branch-name`
-0. Make your change and remember to add tests
-0. Build the project locally and run local tests
-0. Push to your fork and [submit a pull request][pr]
-0. Pat your self on the back and wait for your pull request to be reviewed and merged.
-
-Here are a few things you can do that will increase the likelihood of your pull request being accepted:
-
-- Follow the [style guide][link to styleguide].
-- Write tests.
-- Keep your change as focused as possible. If there are multiple changes you would like to make that are not dependent upon each other, submit them as separate pull requests.
-- Write [good commit messages](http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html).
-
-## Resources
-
-- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
-- [Using Pull Requests](https://help.github.com/articles/about-pull-requests/)
-- [GitHub Help](https://help.github.com)
+0. [Crie uma Issue](https://docs.github.com/pt/free-pro-team@latest/github/managing-your-work-on-github/creating-an-issue) requisitando uma nova funcionalidade (Feature Request).
+0. Adicione no título o nome da nova fonte de dados que deseja adicionar à lista.
+0. Adicione o link para esta fonte de dados, a área de negócio que essa fonte de dados está relacionada e outros dados que achar relevante.
+0. Aguarde até que sua Issue seja respondida.
